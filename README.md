@@ -1,5 +1,5 @@
 # aks-bootcamp
-AKS Bootcamp by Lucas Santos Notebook
+AKS Bootcamp by Lucas Santos @khaosdoctor Notebook
 https://channel9.msdn.com/Series/AKS-Bootcamp-From-zero-to-container-hero
 
 ## 
